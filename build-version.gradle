@@ -1,0 +1,5 @@
+ext.deps =
+[
+        artisanBase        : "com.helijia.artisan:base:0.0.43-Dev",
+        multidex           : "com.android.support:multidex:1.0.1"
+]
